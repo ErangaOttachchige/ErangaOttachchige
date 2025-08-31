@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** 
 
 - 📫 How to reach me **erangaisuru170@gmail.com**
 
