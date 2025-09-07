@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eranga Ottachchige</h1>
-<h3 align="center">Undergraduate Student in Computer Science from Sri Lanka, with a deep passion for Software Development, AI and Machine Leraning.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erangaottachchige&label=Profile%20views&color=0e75b6&style=flat" alt="erangaottachchige" /> </p>
+<h3 align="center">Final year undergraduate Student in Computer Science from Sri Lanka, with a deep passion for Machine Learning, AI, and Software Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erangaottachchige" alt="erangaottachchige" /></a> </p>
 
