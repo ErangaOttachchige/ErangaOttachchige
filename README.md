@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eranga Ottachchige</h1>
-<h3 align="center">Final year undergraduate Student in Computer Science from Sri Lanka, with a deep passion for Machine Learning, AI, and Software Development.</h3>
+<h3 align="center">Final year undergraduate Student in Computer Science from Sri Lanka, with a deep passion for Machine Learning, Deep Learning, Computer Vision, and Software Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erangaottachchige" alt="erangaottachchige" /></a> </p>
 
