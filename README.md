@@ -59,9 +59,9 @@ DevOps Beginners to Advanced - Udemy (Project-Based Course)
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🦁 **WildLite** (FYP) | Task-aware low-light wildlife camera trap system - YOLOv8 + Zero-DCE++ feedback pipeline, 95.2% mAP50 on 19 species | Python, PyTorch, YOLOv8, FastAPI, Flutter |
-| 🚦 **Traffic Congestion Classifier** | MLP neural network for congestion level prediction — 89% accuracy on 48K instances | Python, PyTorch, scikit-learn |
+| 🚦 **Traffic Congestion Classifier** | MLP neural network for congestion level prediction - 89% accuracy on 48K instances | Python, PyTorch, scikit-learn |
 | 🛡️ **Scam Detection Platform** | Community-driven scam reporting web app with location-based search and chatbot | Next.js, Express.js, MongoDB |
-| 🛒 **Amazon Clone** | E-commerce clone covering JS fundamentals — DOM, async/await, OOP, Fetch API | HTML, CSS, JavaScript |
+| 🛒 **Amazon Clone** | E-commerce clone covering JS fundamentals - DOM, async/await, OOP, Fetch API | HTML, CSS, JavaScript |
 
 ---
 
