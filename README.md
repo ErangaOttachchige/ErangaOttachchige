@@ -1,26 +1,104 @@
-<h1 align="center">Hi 👋, I'm Eranga Ottachchige</h1>
-<h3 align="center">Final year undergraduate Student in Computer Science from Sri Lanka, with a deep passion for Machine Learning, Deep Learning, Computer Vision, and Software Development.</h3>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Isuru Eranga
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erangaottachchige" alt="erangaottachchige" /></a> </p>
+<h3 align="center">CS Graduate (First Class Honours) | Aspiring Cloud & DevOps Engineer</h3>
+<h4 align="center">☁️ AWS · Docker · Kubernetes · Terraform · CI/CD Pipelines</h4>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working with **PyTorch Framework**
-
-- 🌱 I’m currently learning **Deep Learning** 
-
-- 📫 How to reach me **erangaisuru170@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isuru eranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru eranga" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A5276&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Enthusiast;Learning+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Automating+Everything+That+Shouldn't+Be+Manual;Building+My+Way+Into+Cloud+Engineering" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erangaottachchige&show_icons=true&locale=en&layout=compact" alt="erangaottachchige" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erangaottachchige&show_icons=true&locale=en" alt="erangaottachchige" /></p>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRpOWJ1aXEzMGlyYWd2ZjVhNzBmMHd0bnZ5Z3RxaW94OWRhNXd0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="170"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erangaottachchige&" alt="erangaottachchige" /></p>
+- 🎓 **Computer Science Graduate** — First Class Honours from University of Westminster
+- ☁️ **Transitioning into Cloud & DevOps** — Currently training in AWS, Docker, K8s, Terraform, and CI/CD
+- 💼 **11-Month Internship** at Sri Lanka Telecom-Mobitel — Enterprise apps, API integration, agile workflows
+- 🐧 **Enjoying Linux** — Building proficiency in system administration and Bash scripting
+- 📜 **AZ-900 In Progress** — Working toward Microsoft Azure Fundamentals certification
+- 🎯 **Goal**: Land my first Cloud / DevOps Engineer role and build from there
+
+---
+
+## 🛠️ Tech Stack
+
+### What I Work With
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,github,flutter,linux,vim,figma" />
+</p>
+
+### What I'm Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,bash,prometheus,grafana,nginx" />
+</p>
+
+---
+
+## 📚 Currently Working Through
+
+```
+DevOps Beginners to Advanced — Udemy (Project-Based Course)
+├── ✅ Linux Fundamentals & System Administration
+├── 🔄 Bash Scripting & Automation
+├── 🔄 Networking Fundamentals
+├── ⏳ AWS Cloud (EC2, S3, RDS, VPC, ELB, IAM, CloudWatch)
+├── ⏳ CI/CD — Jenkins, GitHub Actions, GitLab CI/CD
+├── ⏳ Terraform & Ansible
+├── ⏳ Docker & Kubernetes
+└── ⏳ Monitoring — Prometheus, Grafana, Loki
+```
+
+> ✅ = Completed &nbsp; 🔄 = In Progress &nbsp; ⏳ = Upcoming
+
+---
+
+## 🔬 Notable Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🦁 **WildLite** (FYP) | Task-aware low-light wildlife camera trap system — YOLOv8 + Zero-DCE++ feedback pipeline, 95.2% mAP50 on 19 species | Python, PyTorch, YOLOv8, FastAPI, Flutter |
+| 🚦 **Traffic Congestion Classifier** | MLP neural network for congestion level prediction — 89% accuracy on 48K instances | Python, PyTorch, scikit-learn |
+| 🛡️ **Scam Detection Platform** | Community-driven scam reporting web app with location-based search and chatbot | Next.js, Express.js, MongoDB |
+| 🛒 **Amazon Clone** | E-commerce clone covering JS fundamentals — DOM, async/await, OOP, Fetch API | HTML, CSS, JavaScript |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erangaottachchige&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A5276&icon_color=1A5276&text_color=C9D1D9" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erangaottachchige&theme=tokyonight&hide_border=true&background=0D1117&ring=1A5276&fire=1A5276&currStreakLabel=1A5276" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erangaottachchige&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A5276&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:erangaisuru170@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1A5276?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eranga-ottachchige-467590253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1A5276?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ErangaOttachchige" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-1A5276?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=erangaottachchige&color=1A5276&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center"><i>"The cloud is just someone else's computer — until you learn to manage it yourself."</i></p>
