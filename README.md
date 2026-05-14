@@ -97,8 +97,4 @@ DevOps Beginners to Advanced - Udemy (Project-Based Course)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=erangaottachchige&color=1A5276&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
 <p align="center"><i>"The cloud is just someone else's computer - until you learn to manage it yourself."</i></p>
