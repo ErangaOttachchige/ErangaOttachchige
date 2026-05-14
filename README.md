@@ -1,10 +1,10 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Isuru Eranga
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Eranga Ottachchige
 
 <h3 align="center">CS Graduate (First Class Honours) | Aspiring Cloud & DevOps Engineer</h3>
 <h4 align="center">☁️ AWS · Docker · Kubernetes · Terraform · CI/CD Pipelines</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A5276&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps+Enthusiast;Learning+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Automating+Everything+That+Shouldn't+Be+Manual;Building+My+Way+Into+Cloud+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A5276&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Enthusiast;Learning+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Automating+Everything+That+Shouldn't+Be+Manual;Building+My+Way+Into+Cloud+Engineering" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - ☁️ **Transitioning into Cloud & DevOps** - Currently training in AWS, Docker, K8s, Terraform, and CI/CD
 - 💼 **11-Month Internship** at Sri Lanka Telecom-Mobitel - Enterprise apps, API integration, agile workflows
 - 🐧 **Enjoying Linux** - Building proficiency in system administration and Bash scripting
-- 📜 **AZ-900 In Progress** - Working toward Microsoft Azure Fundamentals certification
+- 📜 **AZ-900 Certified** — Microsoft Azure Fundamentals
 - 🎯 **Goal**: Land my first Cloud / DevOps Engineer role and build from there
 
 ---
@@ -101,4 +101,4 @@ DevOps Beginners to Advanced - Udemy (Project-Based Course)
   <img src="https://komarev.com/ghpvc/?username=erangaottachchige&color=1A5276&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<p align="center"><i>"The cloud is just someone else's computer — until you learn to manage it yourself."</i></p>
+<p align="center"><i>"The cloud is just someone else's computer - until you learn to manage it yourself."</i></p>
