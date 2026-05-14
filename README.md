@@ -13,11 +13,11 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRpOWJ1aXEzMGlyYWd2ZjVhNzBmMHd0bnZ5Z3RxaW94OWRhNXd0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="170"/>
 
-- 🎓 **Computer Science Graduate** — First Class Honours from University of Westminster
-- ☁️ **Transitioning into Cloud & DevOps** — Currently training in AWS, Docker, K8s, Terraform, and CI/CD
-- 💼 **11-Month Internship** at Sri Lanka Telecom-Mobitel — Enterprise apps, API integration, agile workflows
-- 🐧 **Enjoying Linux** — Building proficiency in system administration and Bash scripting
-- 📜 **AZ-900 In Progress** — Working toward Microsoft Azure Fundamentals certification
+- 🎓 **Computer Science Graduate** - First Class Honours from University of Westminster
+- ☁️ **Transitioning into Cloud & DevOps** - Currently training in AWS, Docker, K8s, Terraform, and CI/CD
+- 💼 **11-Month Internship** at Sri Lanka Telecom-Mobitel - Enterprise apps, API integration, agile workflows
+- 🐧 **Enjoying Linux** - Building proficiency in system administration and Bash scripting
+- 📜 **AZ-900 In Progress** - Working toward Microsoft Azure Fundamentals certification
 - 🎯 **Goal**: Land my first Cloud / DevOps Engineer role and build from there
 
 ---
@@ -39,15 +39,15 @@
 ## 📚 Currently Working Through
 
 ```
-DevOps Beginners to Advanced — Udemy (Project-Based Course)
+DevOps Beginners to Advanced - Udemy (Project-Based Course)
 ├── ✅ Linux Fundamentals & System Administration
 ├── 🔄 Bash Scripting & Automation
 ├── 🔄 Networking Fundamentals
 ├── ⏳ AWS Cloud (EC2, S3, RDS, VPC, ELB, IAM, CloudWatch)
-├── ⏳ CI/CD — Jenkins, GitHub Actions, GitLab CI/CD
+├── ⏳ CI/CD - Jenkins, GitHub Actions, GitLab CI/CD
 ├── ⏳ Terraform & Ansible
 ├── ⏳ Docker & Kubernetes
-└── ⏳ Monitoring — Prometheus, Grafana, Loki
+└── ⏳ Monitoring - Prometheus, Grafana, Loki
 ```
 
 > ✅ = Completed &nbsp; 🔄 = In Progress &nbsp; ⏳ = Upcoming
@@ -58,7 +58,7 @@ DevOps Beginners to Advanced — Udemy (Project-Based Course)
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🦁 **WildLite** (FYP) | Task-aware low-light wildlife camera trap system — YOLOv8 + Zero-DCE++ feedback pipeline, 95.2% mAP50 on 19 species | Python, PyTorch, YOLOv8, FastAPI, Flutter |
+| 🦁 **WildLite** (FYP) | Task-aware low-light wildlife camera trap system - YOLOv8 + Zero-DCE++ feedback pipeline, 95.2% mAP50 on 19 species | Python, PyTorch, YOLOv8, FastAPI, Flutter |
 | 🚦 **Traffic Congestion Classifier** | MLP neural network for congestion level prediction — 89% accuracy on 48K instances | Python, PyTorch, scikit-learn |
 | 🛡️ **Scam Detection Platform** | Community-driven scam reporting web app with location-based search and chatbot | Next.js, Express.js, MongoDB |
 | 🛒 **Amazon Clone** | E-commerce clone covering JS fundamentals — DOM, async/await, OOP, Fetch API | HTML, CSS, JavaScript |
