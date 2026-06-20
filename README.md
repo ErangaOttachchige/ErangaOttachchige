@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Eranga Ottachchige
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Isuru Eranga
 
 <h3 align="center">CS Graduate (First Class Honours) | Aspiring Cloud & DevOps Engineer</h3>
 <h4 align="center">☁️ AWS · Docker · Kubernetes · Terraform · CI/CD Pipelines</h4>
