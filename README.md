@@ -41,16 +41,16 @@
 ```
 DevOps Beginners to Advanced - Udemy (Project-Based Course)
 ├── ✅ Linux Fundamentals & System Administration
-├── 🔄 Bash Scripting & Automation
-├── 🔄 Networking Fundamentals
-├── ⏳ AWS Cloud (EC2, S3, RDS, VPC, ELB, IAM, CloudWatch)
-├── ⏳ CI/CD - Jenkins, GitHub Actions, GitLab CI/CD
-├── ⏳ Terraform & Ansible
-├── ⏳ Docker & Kubernetes
-└── ⏳ Monitoring - Prometheus, Grafana, Loki
+├── ✅ Bash Scripting & Automation
+├── ✅ Networking Fundamentals
+├── 🔄 AWS Cloud (EC2, S3, RDS, VPC, ELB, IAM, CloudWatch)
+├── 🔄 CI/CD - Jenkins, GitHub Actions, GitLab CI/CD
+├── 🔄 Terraform & Ansible
+├── 🔄 Docker & Kubernetes
+└── 🔄 Monitoring - Prometheus, Grafana, Loki
 ```
 
-> ✅ = Completed &nbsp; 🔄 = In Progress &nbsp; ⏳ = Upcoming
+> ✅ = Completed &nbsp; 🔄 = In Progress &nbsp;
 
 ---
 
