@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Isuru Eranga
 
-<h3 align="center">CS Graduate (First Class Honours) | Aspiring Cloud & DevOps Engineer</h3>
-<h4 align="center">☁️ AWS · Docker · Kubernetes · Terraform · CI/CD Pipelines</h4>
+<h3 align="center">CS Graduate (First Class Honours) | Cloud & DevOps Engineer</h3>
+<h4 align="center">☁️ AWS · GCP · Docker · Kubernetes · Terraform · CI/CD Pipelines</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A5276&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Enthusiast;Learning+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Automating+Everything+That+Shouldn't+Be+Manual;Building+My+Way+Into+Cloud+Engineering" alt="Typing SVG" />
