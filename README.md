@@ -43,7 +43,7 @@ DevOps Beginners to Advanced - Udemy (Project-Based Course)
 ├── ✅ Linux Fundamentals & System Administration
 ├── ✅ Bash Scripting & Automation
 ├── ✅ Networking Fundamentals
-├── 🔄 AWS Cloud (EC2, S3, RDS, VPC, ELB, IAM, CloudWatch)
+├── ✅ AWS Cloud (EC2, S3, RDS, VPC, ELB, IAM, CloudWatch)
 ├── 🔄 CI/CD - Jenkins, GitHub Actions, GitLab CI/CD
 ├── 🔄 Terraform & Ansible
 ├── 🔄 Docker & Kubernetes
