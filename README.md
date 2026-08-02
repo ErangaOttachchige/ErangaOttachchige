@@ -13,12 +13,11 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRpOWJ1aXEzMGlyYWd2ZjVhNzBmMHd0bnZ5Z3RxaW94OWRhNXd0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="170"/>
 
-- 🎓 **Computer Science Graduate** - First Class Honours from University of Westminster
+- 🎓 **Computer Science Graduate** - First Class Honours from University of Westminster, UK
 - ☁️ **Transitioning into Cloud & DevOps** - Currently training in AWS, Docker, K8s, Terraform, and CI/CD
-- 💼 **11-Month Internship** at Sri Lanka Telecom-Mobitel - Enterprise apps, API integration, agile workflows
+- 💼 **1 Year Internship** at Sri Lanka Telecom-Mobitel - Enterprise apps, API integration, agile workflows
 - 🐧 **Enjoying Linux** - Building proficiency in system administration and Bash scripting
 - 📜 **AZ-900 Certified** - Microsoft Azure Fundamentals
-- 🎯 **Goal**: Land my first Cloud / DevOps Engineer role and build from there
 
 ---
 
