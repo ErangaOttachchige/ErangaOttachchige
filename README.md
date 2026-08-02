@@ -58,6 +58,7 @@ DevOps Beginners to Advanced - Udemy (Project-Based Course)
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🏗️ Multi-Tier Java Deployment | Automated a 5-VM multi-tier Java application deployment with Infrastructure as Code using Vagrant. Configured NGINX, Tomcat, MySQL, RabbitMQ, Memcached, and NFS across Linux servers. | Vagrant, VirtualBox, Linux, Bash, NGINX, Tomcat, MySQL, RabbitMQ, Memcached, NFS |
 | 🦁 **WildLite** (FYP) | Task-aware low-light wildlife camera trap system - YOLOv8 + Zero-DCE++ feedback pipeline, 95.2% mAP50 on 19 species | Python, PyTorch, YOLOv8, FastAPI, Flutter |
 | 🚦 **Traffic Congestion Classifier** | MLP neural network for congestion level prediction - 89% accuracy on 48K instances | Python, PyTorch, scikit-learn |
 | 🛡️ **Scam Detection Platform** | Community-driven scam reporting web app with location-based search and chatbot | Next.js, Express.js, MongoDB |
